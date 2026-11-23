@@ -5,7 +5,7 @@ Analista de dados freelancer em Piracicaba-SP. Transformo dados em decisões: an
 - Estudando: Google Advanced Data Analytics
 - Stack: Python, SQL, Tableau, Pandas, Git
 - Portfólio: https://icaroferreirafs.github.io
-- LinkedIn: https://www.linkedin.com/in/icaroferreirafs
+- LinkedIn: https://www.linkedin.com/in/icaroferreiraf
 - Contato: icaroferreirafs@gmail.com
 
 ## Projetos
@@ -21,7 +21,7 @@ Freelance data analyst based in Piracicaba, Brazil. I turn data into decisions: 
 - Currently studying: Google Advanced Data Analytics
 - Stack: Python, SQL, Tableau, Pandas, Git
 - Portfolio: https://icaroferreirafs.github.io/en/
-- LinkedIn: https://www.linkedin.com/in/icaroferreirafs
+- LinkedIn: https://www.linkedin.com/in/icaroferreiraf
 - Contact: icaroferreirafs@gmail.com
 
 ## Projects
